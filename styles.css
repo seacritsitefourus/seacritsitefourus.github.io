@@ -2,7 +2,7 @@
 body {
     background-image: url('lebonbon.png');
     background-repeat: repeat;
-    background-size: auto;
+    background-size: small;
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
@@ -44,4 +44,5 @@ footer {
 .big-button:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
+
 
